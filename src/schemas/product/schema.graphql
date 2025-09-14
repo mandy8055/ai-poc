@@ -1,0 +1,75 @@
+# Product schema for recommendation engine
+# Simplified for recommendation algorithms
+
+type Product {
+  id: String!
+  brand: Brand
+  color: Color
+  productFamily: ProductFamily!
+  """
+  header represents the product name which is useful for product name
+  """
+  header: [ProductHeader!]
+
+  """
+  Essential for recommendations
+  """
+  price: Price
+  availability: ShopAvailability
+  reviewStatistics: ProductReviewStatistics
+}
+
+type ProductFamily {
+  id: String
+  name: String
+}
+
+type ProductHeader {
+  block: String!
+  level: Int
+  value: String!
+}
+
+type Price {
+  """
+  The price that should be displayed for a product
+  """
+  displayPrice: Money
+}
+
+type ShopAvailability {
+  """
+  indicator about the availability status
+  """
+  status: AvailabilityStatus
+}
+
+type ProductReviewStatistics {
+  averageRating: Float
+  ratingCount: Int!
+}
+
+type Money {
+  amount: Float!
+  currency: String!
+}
+
+enum Brand {
+  KITCHENTECH
+  HOMEPRO
+  APPLIANCE_PLUS
+  COOKMASTER
+  HOMEMATE
+}
+
+enum Color {
+  WHITE
+  SILVER
+  BLACK
+}
+
+enum AvailabilityStatus {
+  GREEN
+  YELLOW
+  RED
+}
