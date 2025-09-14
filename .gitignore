@@ -1,3 +1,12 @@
 node_modules/
 build/
 dist/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python

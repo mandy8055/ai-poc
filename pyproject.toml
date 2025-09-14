@@ -1,0 +1,9 @@
+[project]
+name = "ai-poc"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "sentence-transformers>=5.1.0",
+    "torch>=2.8.0",
+]

@@ -9,7 +9,8 @@
     "codegen": "graphql-codegen --config config/codegen.ts",
     "codegen:watch": "graphql-codegen --config config/codegen.ts --watch",
     "generate:washers": "pnpm run build && node build/utils/generate-one-product.js 1 20",
-    "test:washing": "python src/core/recommend_similar_products.py src/mocks/washing_machines/data.json 4"
+    "setup:python": "chmod +x scripts/setup.sh && ./scripts/setup.sh",
+    "recommend:demo": "uv run python src/core/recommend_similar_products.py src/mocks/washing_machines/data.json 4"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "^5.0.7",
@@ -23,7 +24,14 @@
   },
   "dependencies": {},
   "packageManager": "pnpm@10.12.2+sha512.a32540185b964ee30bb4e979e405adc6af59226b438ee4cc19f9e8773667a66d302f5bfee60a39d3cac69e35e4b96e708a71dd002b7e9359c4112a1722ac323f",
-  "keywords": [],
+  "keywords": [
+    "ai",
+    "recommendation-engine",
+    "python",
+    "typescript",
+    "graphql",
+    "uv"
+  ],
   "author": "",
   "license": "ISC"
 }
