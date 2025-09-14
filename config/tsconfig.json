@@ -8,10 +8,14 @@
     "esModuleInterop": true,
     "isolatedModules": true,
     "outDir": "../build",
-    "rootDir": "..",
+    "rootDir": "../src/data",
     "strict": true,
     "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": "../src",
+    "paths": {
+      "*": ["data/*"]
+    }
   },
-  "include": ["../src/**/*.ts"]
+  "include": ["../src/data/**/*.ts"]
 }

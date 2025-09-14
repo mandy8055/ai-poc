@@ -1,0 +1,302 @@
+[
+  {
+    "id": "Washing_Machines_1",
+    "brand": "HOMEPRO",
+    "color": "SILVER",
+    "price": {
+      "displayPrice": {
+        "amount": 448,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_2",
+    "brand": "COOKMASTER",
+    "color": "SILVER",
+    "price": {
+      "displayPrice": {
+        "amount": 3623,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_3",
+    "brand": "HOMEPRO",
+    "color": "SILVER",
+    "price": {
+      "displayPrice": {
+        "amount": 3158,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_4",
+    "brand": "HOMEPRO",
+    "color": "SILVER",
+    "price": {
+      "displayPrice": {
+        "amount": 3644,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_5",
+    "brand": "COOKMASTER",
+    "color": "BLACK",
+    "price": {
+      "displayPrice": {
+        "amount": 367,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_6",
+    "brand": "KITCHENTECH",
+    "color": "SILVER",
+    "price": {
+      "displayPrice": {
+        "amount": 2132,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_7",
+    "brand": "COOKMASTER",
+    "color": "SILVER",
+    "price": {
+      "displayPrice": {
+        "amount": 1952,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_8",
+    "brand": "COOKMASTER",
+    "color": "BLACK",
+    "price": {
+      "displayPrice": {
+        "amount": 3455,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_9",
+    "brand": "HOMEMATE",
+    "color": "SILVER",
+    "price": {
+      "displayPrice": {
+        "amount": 3513,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_10",
+    "brand": "HOMEPRO",
+    "color": "BLACK",
+    "price": {
+      "displayPrice": {
+        "amount": 768,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_11",
+    "brand": "KITCHENTECH",
+    "color": "BLACK",
+    "price": {
+      "displayPrice": {
+        "amount": 4451,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_12",
+    "brand": "APPLIANCE_PLUS",
+    "color": "SILVER",
+    "price": {
+      "displayPrice": {
+        "amount": 3367,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_13",
+    "brand": "COOKMASTER",
+    "color": "SILVER",
+    "price": {
+      "displayPrice": {
+        "amount": 823,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_14",
+    "brand": "HOMEPRO",
+    "color": "BLACK",
+    "price": {
+      "displayPrice": {
+        "amount": 1114,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_15",
+    "brand": "COOKMASTER",
+    "color": "WHITE",
+    "price": {
+      "displayPrice": {
+        "amount": 3167,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_16",
+    "brand": "COOKMASTER",
+    "color": "SILVER",
+    "price": {
+      "displayPrice": {
+        "amount": 4428,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_17",
+    "brand": "KITCHENTECH",
+    "color": "WHITE",
+    "price": {
+      "displayPrice": {
+        "amount": 3864,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_18",
+    "brand": "HOMEPRO",
+    "color": "SILVER",
+    "price": {
+      "displayPrice": {
+        "amount": 4208,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_19",
+    "brand": "HOMEPRO",
+    "color": "SILVER",
+    "price": {
+      "displayPrice": {
+        "amount": 3877,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  },
+  {
+    "id": "Washing_Machines_20",
+    "brand": "HOMEPRO",
+    "color": "SILVER",
+    "price": {
+      "displayPrice": {
+        "amount": 1827,
+        "currency": "USD"
+      }
+    },
+    "productFamily": {
+      "id": "Washing_Machines",
+      "name": "Washers"
+    }
+  }
+]
